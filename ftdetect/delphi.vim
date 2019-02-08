@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.dpr,*.DPR,*.pas,*.PAS,*.dfm,*.DFM set filetype=delphi
+autocmd BufNewFile,BufRead *.dpr,*.DPR,*.pas,*.PAS,*.dfm,*.DFM,*.rtm,*.RTM set filetype=delphi
